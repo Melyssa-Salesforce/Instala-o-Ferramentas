@@ -51,7 +51,7 @@ Para utilizar o APEX fora do “Developer Console” da org, é recomendável in
    Homebrew 4.4.31
    ```
 
-3. Instale o Git com:
+3. Instale o Git no terminal usando o comando abaixo:
 
    ```bash
    brew install git
@@ -79,7 +79,7 @@ Para utilizar o APEX fora do “Developer Console” da org, é recomendável in
 1. Acesse o link abaixo e instale o Node.js (use as configurações padrão):  
    https://nodejs.org/en
 
-2. Verifique a instalação do Node.js com:
+2. Verifique a instalação do Node.js no terminal com:
 
    ```bash
    node --version
@@ -91,7 +91,7 @@ Para utilizar o APEX fora do “Developer Console” da org, é recomendável in
    v23.10.0
    ```
 
-3. Verifique a instalação do npm com:
+3. Verifique a instalação do npm no terminal com:
 
    ```bash
    npm --version
