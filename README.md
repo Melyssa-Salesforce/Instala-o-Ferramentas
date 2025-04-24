@@ -1,6 +1,6 @@
-# Pré-tarefa: Instalação de Ferramentas para uso de APEX e LWC fora do Developer Console
+# Pré-tarefa: Instalação de Ferramentas para uso de APEX fora do Developer Console
 
-Para utilizar o APEX e o LWC fora do “Developer Console” da org, é recomendável instalar algumas ferramentas. Essas ferramentas facilitam a edição e manutenção do código. Abaixo estão os passos para instalação, na ordem correta:
+Para utilizar o APEX fora do “Developer Console” da org, é recomendável instalar algumas ferramentas. Essas ferramentas facilitam a edição e manutenção do código. Abaixo estão os passos para instalação, na ordem correta:
 
 ---
 
@@ -33,7 +33,7 @@ Para utilizar o APEX e o LWC fora do “Developer Console” da org, é recomend
 
 ## Passo 2: Instalar o Git e criar conta no GitHub
 
-1. Instale o Homebrew (gerenciador de pacotes) com o comando:
+1. Instale o Homebrew (gerenciador de pacotes) com o comando abaixo no terminal do notebook:
 
    ```bash
    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
